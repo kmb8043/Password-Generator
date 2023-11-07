@@ -2,27 +2,26 @@
 
 ## Overview ##
 
-This is website that helps generate a random password based off of criteria the user answers.
+This is website that generate a random password based off of criteria the user chooses.
 
 
 ## Description ##
 
 I added in the JavaScript files to this existing html and css. 
-The user will click the "Generate Password" button. 
-After clicking, prompts about length, uppercase, lowercase, numbers and special characters will appear. 
-The user will determind the length of the password and if they want any of the other characters included into their password. 
+The user will click the "Generate Password" button on the site. 
+After clicking, a series of prompts will appear.
+It will ask the user about password length and if user would like to include any uppercase, lowercase, numbers or special characters in the password. 
 After the user completes all the prompts, a password will generate. 
-The user can then copty the password to use. 
 
 ## Usage ##
 
-This website is meant to help with creating a secure password. 
+This website is meant to creat a random password. 
 
 ![password](https://github.com/kmb8043/Password-Generator/assets/147110705/8bf14bb7-ae03-4011-8887-483fabe78d9e)
 
 
 ## Link to site ##
-
+https://kmb8043.github.io/Password-Generator/
 
 
 ## Licence ##
